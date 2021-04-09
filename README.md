@@ -1,6 +1,6 @@
 # CMPINF0010-Lab-Final-Project
 
-Team name: TBD
+Team name: Parks and Recreation
 Team members names and email addresses
 * Chloe Dahan (CRD79@pitt.edu)
 * Asiyah Robinson (ASR81@pitt.edu)
